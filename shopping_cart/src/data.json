@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "iPhone 3GS",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/22230/iphone_3GS_b.jpg",
+            "price": 1000000
+        },
+        {
+            "id": 2,
+            "productName": "iPhone 4",
+            "image": "https://www.2tekvn.net/wp-content/uploads/2020/04/iphone4-2tekvn.jpg",
+            "price": 2000000
+        },
+        {
+            "id": 3,
+            "productName": "iPhone 10",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMNzCRY5pWK6n84VgLIbiQzbp8LK635bxgw&s",
+            "price": 3000000
+        },
+        {
+            "id": 4,
+            "productName": "Samsung Galaxy S7",
+            "image": "https://i5.walmartimages.com/asr/46ef1c1c-7e48-4109-a50f-7e3b2fc94b2c.4abe1a59dadb7ad311e7ddff1349968e.jpeg",
+            "price": 4000000
+        },
+        {
+            "id": 5,
+            "productName": "Huawei P30",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXds7xAvthH4sis9lr62nYh8r21XehnzO7A&s",
+            "price": 1500000
+        },
+        {
+            "id": 6,
+            "productName": "Google Pixel 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZt8rMqVN9SkC0xNqFfs5m9lKTjyKKv8Wdg&s",
+            "price": 3500000
+        },
+        {
+            "id": 7,
+            "productName": "OnePlus 7 Pro",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/201391/oneplus-7-pro-1-600x600.jpg",
+            "price": 2800000
+        },
+        {
+            "id": 8,
+            "productName": "Sony Xperia XZ2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJ9cHastO159z4wk_FV5RhA4WfkNI-4NOuA&s",
+            "price": 2200000
+        },
+        {
+            "id": 9,
+            "productName": "Nokia 8.1",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/194917/nokia-81-blue-1-600x600.jpg",
+            "price": 1800000
+        },
+        {
+            "id": 10,
+            "productName": "LG V30",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6XPj5eTlh_5YLxnF8Lo5FN2yMDJZfgcTFw&s",
+            "price": 2500000
+        }
+    ]
+}
